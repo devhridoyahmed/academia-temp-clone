@@ -4,7 +4,7 @@
 <h1>Hridoy Ahmed</h1>
 <h3>hridoyahmed47@gmail.com</h3>
 <hr/>
-<h3><a href="https://hridoy8888.github.io/academia-temp-clone/" target="_blank">Live demo</a></h3>
+<h3><a href="https://hr-academia.netlify.app/" target="_blank">Live demo</a></h3>
 <h4>this is not responsive design. to get best result use 1920*1080 display.</h4>
 
 <h3>Screenshot</h3>
